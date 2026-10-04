@@ -41,9 +41,7 @@ This project was created to practice HTML and CSS by recreating the layout and v
 
 ## 📸 Preview
 
-## 📸 Preview
-
-![YouTube Clone Preview](screenshots/youtube-clone.png)
+![YouTube Clone Preview](screenshots/Screenshot.png)
 
 ## 👨‍💻 Author
 
